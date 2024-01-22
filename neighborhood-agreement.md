@@ -1,14 +1,14 @@
 # Соседское соглашение
 
-- [Цель](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#цель)
-- [Краткое руководство](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#краткое-руководство)
-- [Правила внесения изменений в чужой функционал](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#правила-внесения-изменений-в-чужой-функционал)
-- [Ответственность владельца](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#ответственность-владельца)
-- [Меры контроля качества автоматизации тестирования](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#меры-контроля-качества-автоматизации-тестирования)
+- [Цель](https://github.com/DirtyRamirez/playbook/blob/master/neighborhood-agreement.md#цель)
+- [Краткое руководство](https://github.com/DirtyRamirez/playbook/blob/master/neighborhood-agreement.md#краткое-руководство)
+- [Правила внесения изменений в чужой функционал](https://github.com/DirtyRamirez/playbook/blob/master/neighborhood-agreement.md#правила-внесения-изменений-в-чужой-функционал)
+- [Ответственность владельца](https://github.com/DirtyRamirez/playbook/blob/master/neighborhood-agreement.md#ответственность-владельца)
+- [Меры контроля качества автоматизации тестирования](https://github.com/DirtyRamirez/playbook/blob/master/neighborhood-agreement.md#меры-контроля-качества-автоматизации-тестирования)
 
 
 ## Цель
-Снизить коммуникационные издержки и сократить баги от внесения изменений юнитами в функционал друг друга. Для этого нужно определить подход в автоматизации тестирования при изменении своего или чужого функционала и избежать негативных последствий для продуктов Avito.
+Снизить коммуникационные издержки и сократить баги от внесения изменений юнитами в функционал друг друга. Для этого нужно определить подход в автоматизации тестирования при изменении своего или чужого функционала и избежать негативных последствий для продуктов Газпромбанка.
 
 
 ## Краткое руководство
